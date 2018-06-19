@@ -23,6 +23,11 @@ body {
     font-size: 30px;
     border-radius: 20px;
 }
+
+#categories li a:hover {
+  color: #d580ff;
+}
+
 #categories ul {
     padding: 0px 0px 0px 0px;
     text-align: center;
@@ -30,7 +35,7 @@ body {
     top: 200px;
 }
 #about p {
-    font-family: 'Courgette', cursive; 
+    font-family: 'Courgette', cursive;
     padding: 0px 250px 0px 250px;
     font-size: 20px;
     text-align: center;
