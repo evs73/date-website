@@ -6,6 +6,7 @@
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
   opacity: 0.7;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #header{
