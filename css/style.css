@@ -9,6 +9,14 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#header h1 {
+  font-family: 'Shrikhand' , cursive;
+  text-align: center;
+  color: #77f4ab;
+  font-size: 60px;
+  opacity: 0.7;
+}
 #categories li a{
     color: black;
 }
