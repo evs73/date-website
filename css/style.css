@@ -1,16 +1,14 @@
-#header h1{
-    color: #77f4ab;
-    font-family: 'Shrikhand', cursive;
-    text-align: center;
-    font-size: 72px;
+.heading{
+    margin: 100px auto 70px 500px;
+    border: 7px solid white;
 }
-body {
-    background-color:white;
-    background-size: 20%;
+#header{
+    background-image: url("https://i.imgur.com/RbNy2TE.jpg");
+    height: 100%;
+    background-position: center;
     background-repeat: no-repeat;
-    background-position: 50% -10%;
-    padding: 10px
-  }
+    background-size: cover;
+}
 #categories li a{
     color: black;
 }
@@ -23,11 +21,9 @@ body {
     font-size: 30px;
     border-radius: 20px;
 }
-
 #categories li a:hover {
   color: #d580ff;
 }
-
 #categories ul {
     padding: 0px 0px 0px 0px;
     text-align: center;
