@@ -3,16 +3,14 @@
     font-family: 'Great Vibes', cursive;
     color: white;
     font-size: 100px;
-    padding: 30px 50px 205px 50px;
+    padding: 30px 50px 0px 50px;
 }
-
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
   opacity: 0.7;
   font-family: 'Montserrat', sans-serif;
 }
-
-#header{
+body{
     background-image: url("https://i.imgur.com/9DAgIiP.jpg");
     height: 100%;
     width: 100%;
