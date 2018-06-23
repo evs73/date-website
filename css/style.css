@@ -1,16 +1,30 @@
 #header h1{
-    color: #77f4ab;
-    font-family: 'Shrikhand', cursive;
     text-align: center;
-    font-size: 72px;
+    font-family: 'Great Vibes', cursive;
+    color: white;
+    font-size: 100px;
+    padding: 30px 50px 0px 50px;
 }
-body {
-    background-color:white;
-    background-size: 20%;
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+  opacity: 0.7;
+  font-family: 'Questrial', sans-serif;
+}
+body{
+    background-image: url("https://i.imgur.com/9DAgIiP.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
     background-repeat: no-repeat;
-    background-position: 50% -10%;
-    padding: 10px
-  }
+    background-size: 100%;
+}
+#about p {
+    font-family: 'Great Vibes', cursive;
+    padding: 0px 250px 0px 250px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
 #categories li a{
     color: black;
 }
@@ -23,20 +37,12 @@ body {
     font-size: 30px;
     border-radius: 20px;
 }
-
 #categories li a:hover {
   color: #d580ff;
 }
-
 #categories ul {
     padding: 0px 0px 0px 0px;
     text-align: center;
     position: relative;
     top: 200px;
-}
-#about p {
-    font-family: 'Courgette', cursive;
-    padding: 0px 250px 0px 250px;
-    font-size: 20px;
-    text-align: center;
 }
