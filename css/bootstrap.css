@@ -1142,6 +1142,8 @@ img {
 }
 .img-circle {
   border-radius: 50%;
+  max-width: 60%;
+  max-height: 60%;
 }
 hr {
   margin-top: 20px;
