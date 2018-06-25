@@ -1,63 +1,96 @@
-.horniman img{
-    max-width: 50%;
-    max-height: 50%;
+#horniman img{
+    max-width: 70%;
+    max-height: 70%;
+    margin: auto 0px auto 150px;
 }
-.observatory img{
-    max-width: 50%;
-    max-height: 50%;
+#horniman{
+    margin: 50px auto 25px auto;
 }
-.tate img{
-    max-width: 50%;
-    max-height: 50%;
+#observatory img{
+    max-width: 70%;
+    max-height: 70%;
+    margin: auto 0px auto 150px;
 }
-
-.breakfastclub img{
-  max-width: 30%;
-  max-height: 30%;
+#observatory{
+    margin: 50px auto 25px auto;
 }
-
-.rooftopeast img{
-  max-width: 30%;
-  max-height: 30%;
+#tate img{
+    max-width: 70%;
+    max-height: 70%;
+    margin: auto 0px auto 150px;
 }
-
-.boroughmarket img{
-  max-width: 30%;
-  max-height: 30%;
+#tate{
+    margin: 50px auto 25px auto;
 }
-
-.onenewchange img{
-  max-width: 30%;
-  max-height: 30%;
+#breakfastclub img{
+  max-width: 70%;
+  max-height: 70%;
+  margin: auto 0px auto 150px;
 }
-
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-  font-family: 'Questrial', cursive;
-  font-size: 40px;
+#breakfastclub{
+    margin: 50px auto 25px auto;
 }
-
-.container img {
-  max-width: 25%;
-  max-height: 25%;
-  margin-top: 60px;
-  margin-bottom: 60px;
-  }
-
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+#franks img{
+    max-width: 70%;
+    max-height: 70%;
+    margin: auto 0px auto 150px;
 }
-
-.navbar-default {
-  font-family: 'Questrial', sans-serif;
+#franks{
+    margin: 25px auto 25px auto;
 }
-
-.mr-3 {
-  max-width: 30%;
-  max-height: 30%;
+#rooftopeast img{
+  max-width: 70%;
+  max-height: 70%;
+  margin: auto 0px auto 150px;
+}
+#rooftopeast{
+    margin: 25px auto 25px auto;
+}
+#boroughmarket img{
+  max-width: 70%;
+  max-height: 70%;
+  margin: auto 0px auto 150px;
+}
+#boroughmarket{
+    margin: 25px auto 25px auto;
+}
+#onenewchange img{
+  max-width: 70%;
+  max-height: 70%;
+  margin: auto 0px auto 150px;
+}
+#onenewchange{
+    margin: 25px auto 25px auto;
+}
+#nunhead img{
+  max-width: 70%;
+  max-height: 70%;
+  margin: auto 0px auto 150px;
+}
+#nunhead{
+    margin: 25px auto 25px auto;
+}
+#hampstead img{
+  max-width: 70%;
+  max-height: 70%;
+  margin: auto 0px auto 150px;
+}
+#hampstead{
+    margin: 25px auto 25px auto;
+}
+#columbia img{
+  max-width: 70%;
+  max-height: 70%;
+  margin: auto 0px auto 150px;
+}
+#columbia{
+    margin: 25px auto 25px auto;
+}
+#venice img{
+  max-width: 70%;
+  max-height: 70%;
+  margin: auto 0px auto 150px;
+}
+#venice{
+    margin: 25px auto 25px auto;
 }
