@@ -94,3 +94,24 @@
 #venice{
     margin: 25px auto 25px auto;
 }
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: 'Questrial', sans-serif;
+    font-size: 45px;
+}
+
+.container img {
+  max-width: 25%;
+  max-height: 25%;
+  opacity: 0.8;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
