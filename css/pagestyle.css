@@ -111,6 +111,8 @@
   max-width: 25%;
   max-height: 25%;
   opacity: 0.8;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .centered {
@@ -132,6 +134,8 @@
   max-width: 25%;
   max-height: 25%;
   opacity: 0.8;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .centered1 {
