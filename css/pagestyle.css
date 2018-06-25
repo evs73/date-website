@@ -95,6 +95,10 @@
     margin: 25px auto 25px auto;
 }
 
+.navbar-default {
+  font-family: 'Questrial', sans-serif;
+}
+
 .container {
     position: relative;
     text-align: center;
