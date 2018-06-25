@@ -108,8 +108,8 @@
 }
 
 .container img {
-  max-width: 25%;
-  max-height: 25%;
+  max-width: 30%;
+  max-height: 30%;
   opacity: 0.8;
   margin-top: 60px;
   margin-bottom: 60px;
@@ -131,8 +131,8 @@
 }
 
 .containers img {
-  max-width: 25%;
-  max-height: 25%;
+  max-width: 30%;
+  max-height: 30%;
   opacity: 0.8;
   margin-top: 60px;
   margin-bottom: 60px;
