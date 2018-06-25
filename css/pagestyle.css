@@ -144,3 +144,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.col-md-6 h2 {
+  font-family: 'Questrial', sans-serif;
+}
