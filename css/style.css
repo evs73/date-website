@@ -63,17 +63,17 @@ header{
     margin: 30px 0px 0px 0px;
 }
 #categories p a{
-    color: black;
+    color: white;
 }
 #categories p{
     margin: 0px 90px 10px 90px;
-    background-color: rgb(74, 107, 20);
+    background-color: #3CB371;
     font-family: 'Questrial', cursive;
     font-size: 30px;
     border-radius: 20px;
 }
 #categories p a:hover {
-  color: white;
+  color: pink;
 }
 #categories ul {
     padding: 0px 0px 0px 0px;
@@ -81,3 +81,6 @@ header{
     position: relative;
     top: 200px;
 }
+
+
+rgba(84,185,147,0.96)
