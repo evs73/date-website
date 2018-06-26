@@ -135,13 +135,10 @@
 }
 
 .container img {
-  max-width: 60%;
+  max-width: 40%;
   max-height: 10%;
   opacity: 0.8;
-  margin-top: 60px;
-  margin-bottom: 60px;
-  border: 7px solid #3CB371;
-    border-radius: 20px;
+  margin: 80px 0px 70px 0px;
 }
 
 .centered {
@@ -160,13 +157,10 @@
 }
 
 .containers img {
-  max-width: 50%;
+  max-width: 40%;
   max-height: 10%;
   opacity: 0.8;
-  margin-top: 60px;
-  margin-bottom: 60px;
-  border: 7px solid #3CB371;
-    border-radius: 20px;
+  margin: 80px 0px 70px 0px;
 }
 
 .centered1 {
