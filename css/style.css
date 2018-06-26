@@ -1,4 +1,4 @@
-#header h1{
+#header h1 {
     text-align: center;
     font-family: 'Great Vibes', cursive;
     /*font-family: 'Playfair Display', serif;*/
@@ -6,14 +6,14 @@
     font-size: 175px;
     padding: 150px 50px 0px 50px;
 }
-#header h2{
+#header h2 {
     text-align: center;
     font-family: 'Questrial';
     color: white;
     font-size: 10px;
 }
 
-#header h3{
+#header h3 {
     text-align: center;
     font-family: 'Questrial';
     color: white;
@@ -21,7 +21,7 @@
     padding: 30px 50px 120px 50px;
 }
 
-#header h4{
+#header h4 {
     text-align: center;
     font-family: 'Questrial';
     color: white;
@@ -34,7 +34,7 @@
     color: black;
 }
 
-#intro h3{
+#intro h3 {
   font-size: 22px;
 }
 
@@ -42,9 +42,10 @@
     font-family: 'Questrial';
     color: white;
     background-color: rgba(84,185,147.0.96);
-     text-align: center;
-      background-size: cover;
+    text-align: center;
+    background-size: cover;
 }
+
 .navbar-default {
   font-family: 'Questrial', sans-serif;
 }
@@ -56,7 +57,7 @@
   font-family: 'Questrial', sans-serif;
 }*/
 
-header{
+header {
     background-image: url("https://i.imgur.com/9DAgIiP.jpg");
     height: 100%;
     width: 100%;
@@ -64,22 +65,27 @@ header{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-#categories{
+
+#categories {
     margin: 30px 0px 0px 0px;
 }
-#categories p a{
+
+#categories p a {
     color: white;
 }
-#categories p{
+
+#categories p {
     margin: 10px 90px 10px 90px;
     background-color: #3CB371;
     font-family: 'Questrial', cursive;
     font-size: 30px;
     border-radius: 20px;
 }
+
 #categories p a:hover {
   color: pink;
 }
+
 #categories ul {
     padding: 0px 0px 0px 0px;
     text-align: center;
