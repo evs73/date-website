@@ -7,7 +7,7 @@
     
 }
 #horniman{
-    margin: 50px auto 25px auto;
+    margin: 0px auto 25px auto;
 }
 #observatory img{
     max-width: 70%;
@@ -37,7 +37,7 @@
     border-radius: 20px;
 }
 #breakfastclub{
-    margin: 50px auto 25px auto;
+    margin: 0px auto 25px auto;
 }
 #franks img{
     max-width: 70%;
@@ -109,7 +109,7 @@
     border-radius: 20px;
 }
 #columbia{
-    margin: 25px auto 25px auto;
+    margin: 0px auto 25px auto;
 }
 #venice img{
   max-width: 70%;
@@ -138,7 +138,7 @@
   max-width: 40%;
   max-height: 10%;
   opacity: 0.8;
-  margin: 80px 0px 70px 0px;
+  margin: 100px 0px 100px 0px;
 }
 
 .centered {

@@ -1,9 +1,9 @@
 #header h1 {
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Yeseva One', cursive;
     color: white;
     font-size: 175px;
-    padding: 150px 50px 0px 50px;
+    padding: 130px 50px 0px 50px;
 }
 #header h2 {
     text-align: center;
@@ -31,7 +31,7 @@
     text-align: center;
     font-family: 'Questrial';
     color: black;
-    padding: 80px 190px 50px 190px;
+    padding: 100px 190px 50px 190px;
 }
 
 #intro p {
@@ -62,7 +62,7 @@ header {
 }
 
 #categories {
-    margin: 30px 0px 0px 0px;
+    margin: 100px 0px 0px 0px;
 }
 
 #categories p a {
