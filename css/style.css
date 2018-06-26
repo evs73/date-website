@@ -86,5 +86,6 @@ header {
 }
 #form{
     font-family: 'Questrial', cursive;
-    padding: 40px 250px 40px 250px;
+    margin: 100px 250px 100px 250px;
+    float: center;
 }
