@@ -10,7 +10,7 @@
     text-align: center;
     font-family: 'Questrial';
     color: white;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 #header h3{
@@ -33,6 +33,11 @@
     font-family: 'Questrial';
     color: black;
 }
+
+#intro h3{
+  font-size: 22px;
+}
+
 #end {
     font-family: 'Questrial';
     color: white;
@@ -66,7 +71,7 @@ header{
     color: white;
 }
 #categories p{
-    margin: 0px 90px 10px 90px;
+    margin: 10px 90px 10px 90px;
     background-color: #3CB371;
     font-family: 'Questrial', cursive;
     font-size: 30px;
