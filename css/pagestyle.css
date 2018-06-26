@@ -186,3 +186,9 @@
   font-family: 'Questrial', sans-serif;
   font-size: 15px;
 }
+#map{
+    padding: 90px 50px 80px 50px;
+}
+p{
+    padding: 0px 50px 0px 0px;
+}

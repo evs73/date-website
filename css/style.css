@@ -31,14 +31,16 @@
     text-align: center;
     font-family: 'Questrial';
     color: black;
-    padding: 50px 190px 50px 190px;
+    padding: 80px 190px 50px 190px;
 }
 
 #intro p {
   font-size: 22px;
   line-height: 200%;
 }
-
+#intro h2{
+    padding: 0px 0px 20px 0px;
+}
 #end {
     font-family: 'Questrial';
     color: white;
