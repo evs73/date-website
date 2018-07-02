@@ -1,3 +1,16 @@
+header {
+    background-image: url("https://i.imgur.com/9DAgIiP.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    max-width: 100%;
+    height:100%;
+}
+#header{
+    display: inline-block;
+    text-align: center;
+    padding: 0px 0px 0px 210px;
+}
 #header h1 {
     text-align: center;
     font-family: 'Prata', serif;
@@ -5,14 +18,9 @@
     font-size: 175px;
     padding: 130px 50px 0px 50px;
     font-style: italic;
+  
 }
 #header h2 {
-    text-align: center;
-    font-family: 'Questrial';
-    color: white;
-    font-size: 10px;
-}
-#header h3 {
     text-align: center;
     font-family: 'Questrial';
     color: white;
@@ -21,14 +29,7 @@
 }
 .navbar-default {
   font-family: 'Questrial', sans-serif;
-}
-header {
-    background-image: url("https://i.imgur.com/9DAgIiP.jpg");
-    height: 100%;
-    width: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 100%;
+  opacity: 0.65;
 }
 #intro {
     text-align: center;
@@ -41,11 +42,12 @@ header {
   font-size: 22px;
   line-height: 200%;
 }
-#intro h2{
+#intro h3{
     padding: 50px 0px 20px 0px;
+    font-size: 26px;
 }
 #categories {
-    padding: 60px 0px 0px 0px;
+    padding: 80px 0px 0px 0px;
 }
 #categories h4 a {
     color: white;
@@ -81,6 +83,9 @@ header {
 }
 #form{
     font-family: 'Questrial', cursive;
-    margin: 200px 250px 0px 250px;
+    margin: 200px 250px 180px 250px;
     padding: 0px 0px 200px 0px;
+}
+#submit{
+    background-color: #3CB371;
 }
