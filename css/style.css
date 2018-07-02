@@ -19,12 +19,6 @@
     font-size: 50px;
     padding: 30px 50px 170px 50px;
 }
-#header h4 {
-    text-align: center;
-    font-family: 'Questrial';
-    color: white;
-    font-size: 9px;
-}
 .navbar-default {
   font-family: 'Questrial', sans-serif;
 }
@@ -53,31 +47,32 @@ header {
 #categories {
     padding: 60px 0px 0px 0px;
 }
-#categories p a {
+#categories h4 a {
     color: white;
 }
-#categories p {
+#categories h4 a:hover {
+  color: pink;
+}
+#categories h4 {
     margin: 10px 90px 10px 90px;
     background-color: #3CB371;
     font-family: 'Questrial', cursive;
     font-size: 30px;
     border-radius: 20px;
 }
-#categories p a:hover {
-  color: pink;
-}
-#categories ul {
-    padding: 0px 0px 0px 0px;
+#categories p {
     text-align: center;
-    position: relative;
-    top: 200px;
+    font-family: 'Questrial';
+    color: black;
+    font-size: 16px;
+    margin: 16px 50px 50px 50px;
 }
 .row{
     padding: 60px 0px 0px 0px;
     float: center;
 }
 #map{
-    padding: 150px 50px 80px 140px;
+    padding: 120px 50px 80px 140px;
 }
 #form h5{
     text-align: center;
@@ -86,6 +81,6 @@ header {
 }
 #form{
     font-family: 'Questrial', cursive;
-    margin: 100px 250px 100px 250px;
-    float: center;
+    margin: 200px 250px 0px 250px;
+    padding: 0px 0px 200px 0px;
 }
