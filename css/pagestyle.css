@@ -108,6 +108,9 @@ border-radius: 20px;
   border: 7px solid #3CB371;
   border-radius: 20px;
 }
+body{
+    overflow-x: hidden;
+}
 #columbia{
     margin: 0px auto 25px auto;
 }
